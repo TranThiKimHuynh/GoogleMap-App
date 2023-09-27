@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- Fill your API google map here, you can get it with Google Cloud -->
+    <string name="my_map_api_key">[API credential key]</string>
+</resources>
